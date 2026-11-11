@@ -1,0 +1,64 @@
+{
+    "records": [
+        {
+            "channel_id": "UCkfFgWdlH05uhbWfnnOBW0Q",
+            "influencer_name": "AI Tools Unlimited",
+            "recipient": "Not Found",
+            "email_subject": "Collaboration inquiry for AI Tools Unlimited",
+            "email_body": "Hello AI Tools Unlimited,\n\nYour channel showcases guides like \"How To Create Conversational 3D Animated Scenes Using AI | Full Tutorial\" focused on AI tools. I am reaching out to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content. Given your focus on AI animation, this could deliver valuable educational material to your viewers. Are you open to discussing potential collaboration opportunities together?",
+            "processed_at": "2026-11-11T09:55:09.961062+00:00",
+            "status": "skipped_no_valid_email",
+            "dry_run": true,
+            "sent_at": null,
+            "error": "No valid publicly listed contact email found."
+        },
+        {
+            "channel_id": "UCX-77x8VK82AVeZzqKSwz3w",
+            "influencer_name": "Generative AI with Varun",
+            "recipient": "Not Found",
+            "email_subject": "Collaboration inquiry: Generative AI with Varun",
+            "email_body": "Hello Generative AI with Varun,\n\nGiven your focus on topics like retrieval augmented generation, LLMs, and AI agents, alongside uploads like 'GPUs Explained Using Cookies', we would like to get in touch.\n\nWe are reaching out to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content.\n\nWould you be open to connecting to discuss potential collaboration opportunities for your channel?",
+            "processed_at": "2026-11-11T09:55:09.961402+00:00",
+            "status": "skipped_no_valid_email",
+            "dry_run": true,
+            "sent_at": null,
+            "error": "No valid publicly listed contact email found."
+        },
+        {
+            "channel_id": "UC-hisIZlnsImYe7Y5M4qVFA",
+            "influencer_name": "Hope Artificial Intelligence",
+            "recipient": "Not Found",
+            "email_subject": "Collaboration inquiry for Hope Artificial Intelligence",
+            "email_body": "Hello Hope Artificial Intelligence,\n\nYour YouTube channel covers topics like Generative AI, context windows, and your guide on How to Become an Agentic AI Engineer. Because your channel focuses on LLMs and RAG, we would welcome the chance to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content. If you are open to discussing potential collaboration ideas together, please let us know when you might be available for a brief conversation.",
+            "processed_at": "2026-11-11T09:55:09.961611+00:00",
+            "status": "skipped_no_valid_email",
+            "dry_run": true,
+            "sent_at": null,
+            "error": "No valid publicly listed contact email found."
+        },
+        {
+            "channel_id": "UCupmCsCA5CFXmm31PkUhEbA",
+            "influencer_name": "Tübingen Machine Learning",
+            "recipient": "Not Found",
+            "email_subject": "Collaboration Inquiry: Practical AI Learning Content for Tübingen Machine Learning",
+            "email_body": "Hello Tübingen Machine Learning,\n\nYour channel features resources in machine learning and deep learning, including coverage of the Machine Learning in Science Conference and topics like Probabilistic ML. I am reaching out to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content. We would love to discuss how we might collaborate on educational AI topics. Would you be open to a brief conversation this week to discuss potential collaboration ideas?",
+            "processed_at": "2026-11-11T09:55:09.961799+00:00",
+            "status": "skipped_no_valid_email",
+            "dry_run": true,
+            "sent_at": null,
+            "error": "No valid publicly listed contact email found."
+        },
+        {
+            "channel_id": "UC5vr5PwcXiKX_-6NTteAlXw",
+            "influencer_name": "Python Tutorials for Digital Humanities",
+            "recipient": "Not Found",
+            "email_subject": "Collaboration inquiry: Python Tutorials for Digital Humanities",
+            "email_body": "Hello Python Tutorials for Digital Humanities,\n\nYour recent tutorials on accelerating pandas with cuDF, GPU data cleaning, and time series analysis provide focused resources for coding and data science learners.\n\nGiven your focus on Python and Jupyter workflows, we would like to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content.\n\nWould you be open to connecting to discuss potential collaboration ideas?",
+            "processed_at": "2026-11-11T09:55:09.961981+00:00",
+            "status": "skipped_no_valid_email",
+            "dry_run": true,
+            "sent_at": null,
+            "error": "No valid publicly listed contact email found."
+        }
+    ]
+}

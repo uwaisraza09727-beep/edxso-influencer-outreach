@@ -38,3 +38,4 @@ data/exports/*
 !data/processed/filtered_influencers.json
 !data/processed/enriched_influencers.json
 !data/processed/personalized_messages.json
+!data/processed/outreach_history.json
