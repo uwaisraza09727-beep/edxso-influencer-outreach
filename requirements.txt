@@ -1,0 +1,9 @@
+streamlit
+sqlalchemy
+pandas
+requests
+pydantic
+google-genai
+python-dotenv
+beautifulsoup4
+pytest
