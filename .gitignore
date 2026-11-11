@@ -1,3 +1,4 @@
+
 # Virtual environment
 .venv/
 venv/
@@ -26,6 +27,13 @@ __pycache__/
 data/raw/*
 data/processed/*
 data/exports/*
+
+# Keep directory placeholders
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !data/exports/.gitkeep
+
+# Include assignment datasets
+!data/raw/youtube_influencers.json
+!data/processed/filtered_influencers.json
+!data/processed/enriched_influencers.json
