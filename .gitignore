@@ -37,3 +37,4 @@ data/exports/*
 !data/raw/youtube_influencers.json
 !data/processed/filtered_influencers.json
 !data/processed/enriched_influencers.json
+!data/processed/personalized_messages.json

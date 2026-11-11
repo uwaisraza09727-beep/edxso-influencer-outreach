@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "source": "Gemini API",
+        "saved_at": "2026-11-11T09:40:15.954424+00:00",
+        "total_qualified": 5,
+        "successful_generations": 5,
+        "failed_generations": 0,
+        "email_word_range": "60-90",
+        "instagram_dm_word_range": "15-30"
+    },
+    "messages": [
+        {
+            "channel_id": "UCkfFgWdlH05uhbWfnnOBW0Q",
+            "influencer_name": "AI Tools Unlimited",
+            "platform": "YouTube",
+            "profile_url": "https://www.youtube.com/channel/UCkfFgWdlH05uhbWfnnOBW0Q",
+            "filter_status": "PASS",
+            "email_subject": "Collaboration inquiry for AI Tools Unlimited",
+            "email_pitch": "Hello AI Tools Unlimited,\n\nYour channel showcases guides like \"How To Create Conversational 3D Animated Scenes Using AI | Full Tutorial\" focused on AI tools. I am reaching out to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content. Given your focus on AI animation, this could deliver valuable educational material to your viewers. Are you open to discussing potential collaboration opportunities together?",
+            "email_word_count": 70,
+            "instagram_dm": "Hi AI Tools Unlimited! Given your content on AI tools and animation, I'd like to explore a collaboration providing practical technology learning. Are you open to discussing this?",
+            "instagram_dm_word_count": 28,
+            "generation_status": "generated",
+            "generation_model": "gemini-3.8-flash",
+            "generation_attempts": 1,
+            "source_evidence": {
+                "content_themes": [
+                    "ai tools"
+                ],
+                "recent_video_titles": [
+                    "Animate Multiple Characters EASILY in One Scene with AI Animation",
+                    "How To Create Talking and Singing Animals With AI",
+                    "How To Create Conversational 3D Animated Scenes Using AI | Full Tutorial"
+                ]
+            },
+            "generated_at": "2026-11-11T09:38:11.341882+00:00"
+        },
+        {
+            "channel_id": "UCX-77x8VK82AVeZzqKSwz3w",
+            "influencer_name": "Generative AI with Varun",
+            "platform": "YouTube",
+            "profile_url": "https://www.youtube.com/channel/UCX-77x8VK82AVeZzqKSwz3w",
+            "filter_status": "PASS",
+            "email_subject": "Collaboration inquiry: Generative AI with Varun",
+            "email_pitch": "Hello Generative AI with Varun,\n\nGiven your focus on topics like retrieval augmented generation, LLMs, and AI agents, alongside uploads like 'GPUs Explained Using Cookies', we would like to get in touch.\n\nWe are reaching out to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content.\n\nWould you be open to connecting to discuss potential collaboration opportunities for your channel?",
+            "email_word_count": 67,
+            "instagram_dm": "Hi Generative AI with Varun! Given your focus on retrieval augmented generation and AI agents, are you open to discussing a collaboration offering practical AI learning content?",
+            "instagram_dm_word_count": 27,
+            "generation_status": "generated",
+            "generation_model": "gemini-3.8-flash",
+            "generation_attempts": 1,
+            "source_evidence": {
+                "content_themes": [
+                    "generative ai",
+                    "llm",
+                    "llms",
+                    "rag",
+                    "retrieval augmented generation",
+                    "ai agents"
+                ],
+                "recent_video_titles": [
+                    "Data Fuels AI Success 🏎️",
+                    "GPUs Explained Using Cookies 🍪",
+                    "Generative AI Stack Explained #ai #shorts"
+                ]
+            },
+            "generated_at": "2026-11-11T09:38:45.634800+00:00"
+        },
+        {
+            "channel_id": "UC-hisIZlnsImYe7Y5M4qVFA",
+            "influencer_name": "Hope Artificial Intelligence",
+            "platform": "YouTube",
+            "profile_url": "https://www.youtube.com/channel/UC-hisIZlnsImYe7Y5M4qVFA",
+            "filter_status": "PASS",
+            "email_subject": "Collaboration inquiry for Hope Artificial Intelligence",
+            "email_pitch": "Hello Hope Artificial Intelligence,\n\nYour YouTube channel covers topics like Generative AI, context windows, and your guide on How to Become an Agentic AI Engineer. Because your channel focuses on LLMs and RAG, we would welcome the chance to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content. If you are open to discussing potential collaboration ideas together, please let us know when you might be available for a brief conversation.",
+            "email_word_count": 78,
+            "instagram_dm": "Hi Hope Artificial Intelligence! Given your focus on LLMs and agentic AI, we would love to explore a collaboration around practical AI learning content. Open to connecting?",
+            "instagram_dm_word_count": 27,
+            "generation_status": "generated",
+            "generation_model": "gemini-3.8-flash",
+            "generation_attempts": 1,
+            "source_evidence": {
+                "content_themes": [
+                    "generative ai",
+                    "genai",
+                    "llm",
+                    "llms",
+                    "prompt engineering",
+                    "context window",
+                    "rag",
+                    "agentic ai"
+                ],
+                "recent_video_titles": [
+                    "Insurance Claims Intelligence, Risk Prediction & Decision Support System build by HOPE AI Learner",
+                    "Generative AI Full Course in Tamil | LLM, Tokens & Context Window Explained",
+                    "How to Become an Agentic AI Engineer"
+                ]
+            },
+            "generated_at": "2026-11-11T09:39:08.986452+00:00"
+        },
+        {
+            "channel_id": "UCupmCsCA5CFXmm31PkUhEbA",
+            "influencer_name": "Tübingen Machine Learning",
+            "platform": "YouTube",
+            "profile_url": "https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA",
+            "filter_status": "PASS",
+            "email_subject": "Collaboration Inquiry: Practical AI Learning Content for Tübingen Machine Learning",
+            "email_pitch": "Hello Tübingen Machine Learning,\n\nYour channel features resources in machine learning and deep learning, including coverage of the Machine Learning in Science Conference and topics like Probabilistic ML. I am reaching out to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content. We would love to discuss how we might collaborate on educational AI topics. Would you be open to a brief conversation this week to discuss potential collaboration ideas?",
+            "email_word_count": 77,
+            "instagram_dm": "Hi Tübingen Machine Learning! Given your focus on deep learning and probabilistic ML, I'd love to explore a collaboration providing practical AI learning content. Open to connecting?",
+            "instagram_dm_word_count": 27,
+            "generation_status": "generated",
+            "generation_model": "gemini-3.8-flash",
+            "generation_attempts": 1,
+            "source_evidence": {
+                "content_themes": [
+                    "machine learning",
+                    "deep learning"
+                ],
+                "recent_video_titles": [
+                    "Machine Learning in Science Conference 2026  - Impressions",
+                    "ML Cluster Alumni Spotlights: Jakob Schlör Shapes the Next Generation of Weather Forecasting",
+                    "Probabilistic ML - 25 - Revision"
+                ]
+            },
+            "generated_at": "2026-11-11T09:39:36.222237+00:00"
+        },
+        {
+            "channel_id": "UC5vr5PwcXiKX_-6NTteAlXw",
+            "influencer_name": "Python Tutorials for Digital Humanities",
+            "platform": "YouTube",
+            "profile_url": "https://www.youtube.com/channel/UC5vr5PwcXiKX_-6NTteAlXw",
+            "filter_status": "PASS",
+            "email_subject": "Collaboration inquiry: Python Tutorials for Digital Humanities",
+            "email_pitch": "Hello Python Tutorials for Digital Humanities,\n\nYour recent tutorials on accelerating pandas with cuDF, GPU data cleaning, and time series analysis provide focused resources for coding and data science learners.\n\nGiven your focus on Python and Jupyter workflows, we would like to explore a relevant collaboration that offers your audience practical and useful technology and AI learning content.\n\nWould you be open to connecting to discuss potential collaboration ideas?",
+            "email_word_count": 69,
+            "instagram_dm": "Given your Python and pandas tutorials with cuDF, we would love to explore a collaboration sharing practical technology and AI learning content. Open to discussing ideas?",
+            "instagram_dm_word_count": 26,
+            "generation_status": "generated",
+            "generation_model": "gemini-3.8-flash",
+            "generation_attempts": 1,
+            "source_evidence": {
+                "content_themes": [
+                    "python",
+                    "pandas",
+                    "jupyter",
+                    "coding"
+                ],
+                "recent_video_titles": [
+                    "Time Series Analysis on a GPU with Pandas and cuDF (Ep. 07)",
+                    "Accelerating Pandas with NVIDIA's cuDF: Basic Statistical Analysis and Data Cleaning (Ep. 06)",
+                    "Speed up Cleaning Data with Pandas and your GPU! (CuDF Episode 5)"
+                ]
+            },
+            "generated_at": "2026-11-11T09:40:15.952834+00:00"
+        }
+    ],
+    "errors": []
+}
